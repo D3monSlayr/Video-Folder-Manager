@@ -6,7 +6,7 @@ So, This is a Folder Manager for Videos with sudo perms. The way it works is tha
 # How to run
 If your on windows, download and run the executable normally.
 If your on MacOS or Linux, get the source code, make sure you have python installed, then run the program in the terminal using:
-- python3 your_file.py
+- python3 "YouTube File Manager.py"
 
 Thanks for checking out my program. 
 * Join the discord for troubleshooting:
